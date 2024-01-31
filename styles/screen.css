@@ -40,6 +40,10 @@ nav a:hover {
     text-align: center;
 }
 
+
+li a {
+    color:#FCF7F8;
+}
 li a:visited {
     color: #FCF7F8;
 }
