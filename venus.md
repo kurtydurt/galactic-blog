@@ -27,3 +27,5 @@ and within minutes my trusty AI assistant Chad had picked me up in the cruiser a
 After a divine shower and shave, I found myself reflecting in my cryo-sleep pod. While I had not attained a 3D scan of 
 the Venusian Lynx, I had still ended the day with something far more valuable: My life. Dear reader, appreciate every 
 moment you have in this wondrous galaxy of ours.
+
+<img src="/images/signature.png" alt="Reginald's illustrious signature"/>

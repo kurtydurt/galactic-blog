@@ -28,3 +28,5 @@ grisly details, but soon I found myself back aboard my orbital cruiser, dining o
 money could buy. It was prepared by my trusty AI assistant Chad of course. Seared to a perfect medium rare.
 
 Dear reader, let this be a lesson that all things truly worth having take effort.
+
+<img src="/images/signature.png" alt="Reginald's illustrious signature"/>

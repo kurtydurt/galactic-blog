@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
+    color: #FCF7F8;
     background: #17183B;
     margin: 0;
 }
@@ -38,4 +38,20 @@ nav a:hover {
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+li a:visited {
+    color: #FCF7F8;
+}
+
+li a:hover {
+    color: #ABA9C3;
+}
+
+img {
+    width: 60%;
+}
+
+h2 {
+    font-size: x-large;
 }
