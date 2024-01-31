@@ -2,4 +2,9 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addShortcode("copyright", function(holder, year) {
+    return `<div class="footer">
+      &copy ${holder} ${year}
+    </div>`;
+      });
 };
